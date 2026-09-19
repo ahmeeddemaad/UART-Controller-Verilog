@@ -235,8 +235,9 @@ UART-Controller-Verilog/
 ├── uart_rx.v
 ├── uart_tb.v
 │
-├
 ├── rx_data.txt
+│
+│── UART Controller Documentation
 │
 └── README.md
 ```
